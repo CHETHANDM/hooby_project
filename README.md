@@ -35,7 +35,6 @@ JavaScript for handling the calculations and user interactions.
 This online calculator can be used for educational purposes, simple arithmetic calculations, or as a component in larger web applications requiring basic mathematical operations.
 
 
-# project image
-![project](https://github.com/user-attachments/assets/c7df17af-4236-4eff-acef-d60e921fe904)
+
 
 
